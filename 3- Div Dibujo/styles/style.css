@@ -1,0 +1,36 @@
+.Linea1{
+    width: 1.5%;
+    background-color: red;
+    height: 650px;
+    float: left;
+}
+.Linea2{
+    width: 1.5%;
+    background-color: blue;
+    height: 650px;
+    float: left;
+}
+.Linea3{
+    width: 4%;
+    background-color: yellow;
+    height: 650px;
+    float: left;
+}
+.Linea4{
+    width: 6%;
+    background-color: red;
+    height: 650px;
+    float: left;
+}
+.Linea5{
+    width: 11%;
+    background-color: blue;
+    height: 650px;
+    float: left;
+}
+.Linea6{
+    width: 20%;
+    background-color: yellow;
+    height: 650px;
+    float: left;
+}
